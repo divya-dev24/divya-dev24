@@ -13,17 +13,21 @@ Currently sharpening my skills and building up my portfolio—starting small but
 
 ### 🧠 Skills I Have
 
-<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-<img src="https://img.icons8.com/ios-filled/50/design.png" alt="UI Design" />
+<p>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/design.png" alt="UI Design" />
+</p>
 
 ---
 
 ### 🛠️ Tools I'm Familiar With
 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
-<img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" />
-<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
+<p>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
+</p>
 
 ---
 
@@ -45,7 +49,14 @@ It was my first real hands-on project and helped me get comfortable with buildin
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/divya-r-593678253)
+<p>
+  <a href="https://www.linkedin.com/in/divya-r-593678253">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:divya24ioi@gmail.com" style="margin-left:10px;">
+    <img src="https://img.icons8.com/ios-glyphs/48/new-post.png" alt="Email" />
+  </a>
+</p>
 
 ---
 
