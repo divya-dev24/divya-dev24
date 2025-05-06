@@ -54,7 +54,7 @@ It was my first real hands-on project and helped me get comfortable with buildin
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:divya24ioi@gmail.com" style="margin-left:10px;">
-    <img src="https://img.icons8.com/ios-glyphs/48/new-post.png" alt="Email" />
+  <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" />
   </a>
 </p>
 
