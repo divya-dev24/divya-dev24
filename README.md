@@ -16,7 +16,6 @@ Currently sharpening my skills and building up my portfolio—starting small but
 <p>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" style="margin-right:10px;" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" style="margin-right:10px;" />
-  <img src="https://img.icons8.com/ios-filled/50/design.png" alt="UI Design" />
 </p>
 
 ---
