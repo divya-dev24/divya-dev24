@@ -54,7 +54,7 @@ It was my first real hands-on project and helped me get comfortable with buildin
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin-right:15px;" />
   </a>
   <a href="mailto:divya24ioi@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/mail.png" alt="Email" />
+    <img src="https://img.icons8.com/fluency/48/new-post.png" alt="Email" />
   </a>
 </p>
 
