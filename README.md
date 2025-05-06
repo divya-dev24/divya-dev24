@@ -33,13 +33,10 @@ Currently sharpening my skills and building up my portfolio—starting small but
 
 ---
 
-<h2 align="center">🔍 Latest Project</h2>
+### 📂 My First Project
 
-<div align="center">
-  <a href="https://github.com/Luna/Project1">
-    <img src="https://raw.githubusercontent.com/Luna/Luna/main/assets/project1.png" width="300" alt="Project 1">
-  </a>
-</div>
+> I’ve just started out!  
+> Check out my very first GitHub repository [here](https://github.com/divya-dev24/HealSpace). 
 
 ---
 
