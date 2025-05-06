@@ -49,12 +49,12 @@ It was my first real hands-on project and helped me get comfortable with buildin
 
 ### 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/divya-r-593678253">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/divya-r-593678253" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin-right:15px;" />
   </a>
-  <a href="mailto:divya24ioi@gmail.com" style="margin-left:10px;">
-  <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Email" />
+  <a href="mailto:divya24ioi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/mail.png" alt="Email" />
   </a>
 </p>
 
