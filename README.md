@@ -49,7 +49,7 @@ It was my first real hands-on project and helped me get comfortable with buildin
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/divya-r-593678253" target="_blank">
+  <a href="https://www.linkedin.com/in/divya-dev24" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin-right:15px;" />
   </a>
   <a href="mailto:divya24ioi@gmail.com" target="_blank">
