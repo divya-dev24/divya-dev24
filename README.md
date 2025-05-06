@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Hey, I'm Divya</h1>
+<h1 align="center">Hey, I'm Divya 👩‍💻</h1>
 
 <p align="center">
   <i>Still learning, but always building. Here's where I grow and share my journey in web development.</i>
@@ -6,25 +6,30 @@
 
 ---
 
-<h2 align="center">🔧 Tech I’m Exploring</h2>
+### 🌱 About Me
+
+I'm a recent Computer Science graduate with a growing interest in front-end web development.  
+Currently sharpening my skills and building up my portfolio—starting small but aiming high.
+
+---
+
+### 🧠 Skills I Have
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/UI-000000?style=for-the-badge&logo=designmodo&logoColor=white" alt="UI">
+  <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5" width="60" />
+  <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="60" />
+  <img src="https://img.icons8.com/ios-filled/100/design.png" alt="UI Design" width="60" />
 </p>
 
 ---
 
-<h2 align="center">🚀 What I'm Currently Learning</h2>
+### 🛠️ Tools I'm Familiar With
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luna/Luna/main/assets/learn.svg" width="300" alt="learning">
+  <img src="https://img.icons8.com/color/96/figma--v1.png" alt="Figma" width="60" />
+  <img src="https://img.icons8.com/color/96/android-studio--v2.png" alt="Android Studio" width="60" />
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" width="60" />
 </p>
-
-- 🌐 Front-End Web Development (HTML, CSS, JavaScript)  
-- 🎨 UI Design & Prototyping (with Figma)  
-- 📱 Android Studio (Basics in Kotlin & XML)
 
 ---
 
@@ -38,14 +43,11 @@
 
 ---
 
-<h2 align="center">✨ Let's Connect</h2>
+### 🤝 Let's Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/divya-r-593678253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:divya24ioi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/divya-r-593678253">
+    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="50" />
   </a>
 </p>
 
