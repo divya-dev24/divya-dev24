@@ -1,61 +1,52 @@
-<h1 align="center">Hey, I'm Divya 👩‍💻</h1>
+# Hey, I'm Divya 👩‍💻
 
-<p align="center">
-  <i>Still learning, but always building. Here's where I grow and share my journey in web development.</i>
-</p>
+_Still learning, but always building. Here's where I grow and share my journey in web development._
 
 ---
 
 ### 🌱 About Me
 
-I'm a recent Computer Science graduate with a growing interest in front-end web development.  
+I'm a Computer Science graduate with a growing interest in front-end web development.  
 Currently sharpening my skills and building up my portfolio—starting small but aiming high.
 
 ---
 
 ### 🧠 Skills I Have
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5" width="60" />
-  <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" width="60" />
-  <img src="https://img.icons8.com/ios-filled/100/design.png" alt="UI Design" width="60" />
-</p>
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+<img src="https://img.icons8.com/ios-filled/50/design.png" alt="UI Design" />
 
 ---
 
 ### 🛠️ Tools I'm Familiar With
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/figma--v1.png" alt="Figma" width="60" />
-  <img src="https://img.icons8.com/color/96/android-studio--v2.png" alt="Android Studio" width="60" />
-  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" width="60" />
-</p>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
+<img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio" />
+<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
 
 ---
 
-### 📂 My First Project
+### 📂 My First Project – [HealSpace](https://github.com/divya-dev24/HealSpace)
 
-> I’ve just started out!  
-> Check out my very first GitHub repository [here](https://github.com/divya-dev24/HealSpace). 
+**HealSpace** is a beginner-friendly Android app built using XML and Kotlin in Android Studio.  
+The idea behind it was to create a simple self-care space with features like journaling and mood tracking.  
+It was my first real hands-on project and helped me get comfortable with building UI layouts.
+
+---
+
+### 💡 Fun Facts
+
+- 🛠️ Currently diving into **front-end development**  
+- 🖨️ Planning to launch my own **print-on-demand business**  
+- 🌱 Aiming to build **small web projects** to keep improving
 
 ---
 
 ### 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/divya-r-593678253">
-    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="50" />
-  </a>
-</p>
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/divya-r-593678253)
 
 ---
 
-<h2 align="center">💡 Fun Facts</h2>
-
-- 🛠️ Currently diving into **front-end development** 
-- 🖨️ Print-on-demand business: I'm working on starting my own print-on-demand business—exciting things ahead! 
-- 🌱 Aiming to build **small web projects** to keep improving.
-
----
-
-<h3 align="center">Thanks for stopping by! Feel free to check out my work and connect with me 🌙</h3>
+_Thanks for stopping by! Feel free to check out my work and connect with me._  
